@@ -1,5 +1,5 @@
 let emoji = ['\u{1F984}', '\u{1F43C}', '\u{1F437}', '\u{1F981}', '\u{1F41E}', '\u{1F438}', '\u{1F984}', '\u{1F43C}', '\u{1F437}', '\u{1F981}', '\u{1F41E}', '\u{1F438}'];
-//переименовал rotate, т.к. не очевидное обозначение
+
 const rotate = document.querySelectorAll('.card');
 const emojis = document.querySelectorAll('.emoji');
 const front = document.querySelectorAll('.back_card');
